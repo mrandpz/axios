@@ -29,6 +29,10 @@
     "sort-imports": [
       "error",
       { "ignoreDeclarationSort": true, "ignoreCase": true }
-    ]
+    ],
+    "functional/no-return-void":"off",
+    "functional/prefer-readonly-type":"off",
+    "functional/no-let":"off",
+    "functional/immutable-data":"off"
   }
 }
