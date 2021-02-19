@@ -33,6 +33,8 @@
     "functional/no-return-void":"off",
     "functional/prefer-readonly-type":"off",
     "functional/no-let":"off",
-    "functional/immutable-data":"off"
+    "functional/immutable-data":"off",
+    "functional/prefer-type-literal":"off",
+    "@typescript-eslint/no-empty-interface":"off"
   }
 }
